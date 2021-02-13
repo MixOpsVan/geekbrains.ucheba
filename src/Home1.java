@@ -70,10 +70,5 @@ public class Home1 {
 
         String name = "Alexey";
         System.out.println(Hello(name) + "!\n");
-
-
-
-
-
     }
 }
