@@ -61,7 +61,7 @@ public class Home1 {
 
         //Задание 6
         System.out.println("Задание 6. \n");
-         int number = -22;
+        int number = -22;
 
         System.out.printf("Значение переменной = %d. Метод возвращает %s.\n\n", number, isNegatige(number));
 
@@ -70,10 +70,5 @@ public class Home1 {
 
         String name = "Alexey";
         System.out.println(Hello(name) + "!\n");
-
-
-
-
-
     }
 }
